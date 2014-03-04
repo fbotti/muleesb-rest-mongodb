@@ -1,0 +1,5 @@
+MuleESB REST API with Mongo DB Example
+====================
+
+This example demonstrate the basis for putting a REST API with mongoDB as your Document oriented Database.
+ 
